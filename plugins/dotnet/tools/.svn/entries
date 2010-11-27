@@ -1,0 +1,74 @@
+10
+
+dir
+3559
+http://robocode.googlecode.com/svn/robocode/trunk/plugins/dotnet/tools
+http://robocode.googlecode.com/svn
+
+
+
+2010-10-02T11:55:44.313117Z
+3520
+Flemming.N.Larsen
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f29605f6-1552-11df-94bc-6d6fff283d55
+
+keys
+dir
+
+lib
+dir
+
+loadTools.cmd
+file
+
+
+
+
+2010-11-26T18:11:08.000000Z
+3b3334df7975f0d716f55b0782af2adb
+2010-10-02T11:55:44.313117Z
+3520
+Flemming.N.Larsen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1362
+
+mvn
+dir
+
+proxygen
+dir
+

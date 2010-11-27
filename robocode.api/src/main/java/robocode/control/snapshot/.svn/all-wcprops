@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/control/snapshot
+END
+IBulletSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/control/snapshot/IBulletSnapshot.java
+END
+IDebugProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/control/snapshot/IDebugProperty.java
+END
+BulletState.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/control/snapshot/BulletState.java
+END
+IScoreSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/control/snapshot/IScoreSnapshot.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2646/robocode/trunk/robocode.api/src/main/java/robocode/control/snapshot/package.html
+END
+ITurnSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/control/snapshot/ITurnSnapshot.java
+END
+RobotState.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/control/snapshot/RobotState.java
+END
+IRobotSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/control/snapshot/IRobotSnapshot.java
+END

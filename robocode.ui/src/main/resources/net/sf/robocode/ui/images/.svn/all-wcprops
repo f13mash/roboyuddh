@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2650/robocode/trunk/robocode.ui/src/main/resources/net/sf/robocode/ui/images
+END
+radar.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2646/robocode/trunk/robocode.ui/src/main/resources/net/sf/robocode/ui/images/radar.png
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2646/robocode/trunk/robocode.ui/src/main/resources/net/sf/robocode/ui/images/.cvsignore
+END
+turret.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2646/robocode/trunk/robocode.ui/src/main/resources/net/sf/robocode/ui/images/turret.png
+END
+body.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2646/robocode/trunk/robocode.ui/src/main/resources/net/sf/robocode/ui/images/body.png
+END

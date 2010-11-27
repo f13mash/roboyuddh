@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3548/robocode/trunk/robocode.battle
+END
+maven-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3548/robocode/trunk/robocode.battle/maven-build.xml
+END
+maven-build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3548/robocode/trunk/robocode.battle/maven-build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2798/robocode/trunk/robocode.battle/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3280/robocode/trunk/robocode.battle/build.xml
+END
+robocode.battle.iml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3197/robocode/trunk/robocode.battle/robocode.battle.iml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2646/robocode/trunk/robocode.battle/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3042/robocode/trunk/robocode.battle/.classpath
+END

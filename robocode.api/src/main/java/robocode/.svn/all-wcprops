@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3543/robocode/trunk/robocode.api/src/main/java/robocode
+END
+KeyTypedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/KeyTypedEvent.java
+END
+RoundEndedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/RoundEndedEvent.java
+END
+RateControlRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/RateControlRobot.java
+END
+SkippedTurnEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/SkippedTurnEvent.java
+END
+TeamRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/TeamRobot.java
+END
+MouseMovedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MouseMovedEvent.java
+END
+Robot.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/Robot.java
+END
+MouseEnteredEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MouseEnteredEvent.java
+END
+AdvancedRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3543/robocode/trunk/robocode.api/src/main/java/robocode/AdvancedRobot.java
+END
+BulletHitBulletEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/BulletHitBulletEvent.java
+END
+RobocodeFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/RobocodeFileWriter.java
+END
+GunTurnCompleteCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/GunTurnCompleteCondition.java
+END
+HitRobotEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/HitRobotEvent.java
+END
+JuniorRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/JuniorRobot.java
+END
+ScannedRobotEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/ScannedRobotEvent.java
+END
+RadarTurnCompleteCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/RadarTurnCompleteCondition.java
+END
+BattleResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/BattleResults.java
+END
+WinEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/WinEvent.java
+END
+MouseWheelMovedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MouseWheelMovedEvent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2646/robocode/trunk/robocode.api/src/main/java/robocode/package.html
+END
+PaintEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/PaintEvent.java
+END
+_RobotBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/_RobotBase.java
+END
+KeyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/KeyEvent.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/Event.java
+END
+_AdvancedRadiansRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/_AdvancedRadiansRobot.java
+END
+BattleEndedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/BattleEndedEvent.java
+END
+Rules.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/Rules.java
+END
+Robocode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/Robocode.java
+END
+MouseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MouseEvent.java
+END
+RobocodeFileOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/RobocodeFileOutputStream.java
+END
+RobotDeathEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/RobotDeathEvent.java
+END
+HitByBulletEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/HitByBulletEvent.java
+END
+MouseDraggedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MouseDraggedEvent.java
+END
+_Robot.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/_Robot.java
+END
+_AdvancedRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/robocode/_AdvancedRobot.java
+END
+BulletHitEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/BulletHitEvent.java
+END
+CustomEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/CustomEvent.java
+END
+StatusEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/StatusEvent.java
+END
+DeathEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/DeathEvent.java
+END
+TurnCompleteCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/TurnCompleteCondition.java
+END
+Bullet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/Bullet.java
+END
+BattleRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/BattleRules.java
+END
+KeyReleasedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/KeyReleasedEvent.java
+END
+HitWallEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/HitWallEvent.java
+END
+MousePressedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MousePressedEvent.java
+END
+BulletMissedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/BulletMissedEvent.java
+END
+Droid.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/Droid.java
+END
+RobotStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3543/robocode/trunk/robocode.api/src/main/java/robocode/RobotStatus.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/Condition.java
+END
+MouseReleasedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MouseReleasedEvent.java
+END
+MouseExitedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MouseExitedEvent.java
+END
+MouseClickedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MouseClickedEvent.java
+END
+KeyPressedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/KeyPressedEvent.java
+END
+MessageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MessageEvent.java
+END
+MoveCompleteCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/MoveCompleteCondition.java
+END

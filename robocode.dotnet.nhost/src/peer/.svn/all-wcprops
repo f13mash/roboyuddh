@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/peer
+END
+TeamMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/peer/TeamMessage.cs
+END
+ExecCommands.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/peer/ExecCommands.cs
+END
+BulletCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/peer/BulletCommand.cs
+END
+DebugProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/peer/DebugProperty.cs
+END
+ExecResults.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/peer/ExecResults.cs
+END
+BulletStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/peer/BulletStatus.cs
+END

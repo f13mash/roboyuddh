@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs
+END
+GunTurnRate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/GunTurnRate.cs
+END
+RateControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/RateControl.cs
+END
+TooLongNameThisIsReallyTooLongNameCs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/TooLongNameThisIsReallyTooLongNameCs.cs
+END
+BattleLost.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/BattleLost.cs
+END
+DieFast.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/DieFast.cs
+END
+FairPlay.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/FairPlay.cs
+END
+FormsAttack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/FormsAttack.cs
+END
+SkipTurns.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/SkipTurns.cs
+END
+EventPriorityFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/EventPriorityFilter.cs
+END
+EnvAttack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/EnvAttack.cs
+END
+ReflectionAttack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/ReflectionAttack.cs
+END
+ThreadAttack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/ThreadAttack.cs
+END
+HttpAttack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/HttpAttack.cs
+END
+CustomEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/CustomEvents.cs
+END
+BadFirePower.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/BadFirePower.cs
+END
+FileWriteSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/FileWriteSize.cs
+END
+FileAttack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/FileAttack.cs
+END
+Random.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/Random.cs
+END
+JuniorEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/JuniorEvents.cs
+END
+WatchBullets.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/WatchBullets.cs
+END
+Ahead.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/Ahead.cs
+END
+MaxTurnRate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/MaxTurnRate.cs
+END
+BodyTurnRate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/BodyTurnRate.cs
+END
+RadarTurnRateAndSetAdjust.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/RadarTurnRateAndSetAdjust.cs
+END
+PrivateConstructor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/PrivateConstructor.cs
+END
+GunHeat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/GunHeat.cs
+END
+InteruptibleEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/InteruptibleEvent.cs
+END
+UndeadThread.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/UndeadThread.cs
+END
+BattleWin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/BattleWin.cs
+END
+RobotDeathEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/RobotDeathEvents.cs
+END
+TestTeam.team
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3342/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/TestTeam.team
+END
+MaxVelocity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.robotscs/src/tested/robotscs/MaxVelocity.cs
+END

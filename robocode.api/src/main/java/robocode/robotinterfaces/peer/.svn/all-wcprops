@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3543/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/peer
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2646/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/peer/package.html
+END
+IJuniorRobotPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/peer/IJuniorRobotPeer.java
+END
+IBasicRobotPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3543/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/peer/IBasicRobotPeer.java
+END
+ITeamRobotPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/peer/ITeamRobotPeer.java
+END
+IStandardRobotPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/peer/IStandardRobotPeer.java
+END
+IAdvancedRobotPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/peer/IAdvancedRobotPeer.java
+END

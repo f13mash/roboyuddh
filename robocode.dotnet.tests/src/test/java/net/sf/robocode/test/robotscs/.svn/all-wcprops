@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3398/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs
+END
+TestMaxVelocity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestMaxVelocity.java
+END
+TestMaxTurnRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestMaxTurnRate.java
+END
+TestWin.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestWin.java
+END
+TestPrivateConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestPrivateConstructor.java
+END
+TestFormsAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3364/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestFormsAttack.java
+END
+TestReflectionAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestReflectionAttack.java
+END
+TestThreadAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestThreadAttack.java
+END
+TestEventPriorityFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestEventPriorityFilter.java
+END
+TestEnvAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestEnvAttack.java
+END
+TestHttpAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestHttpAttack.java
+END
+TestWatchBullet.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestWatchBullet.java
+END
+TestScoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestScoring.java
+END
+TestCustomEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestCustomEvents.java
+END
+TestPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestPosition.java
+END
+TestJunior.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestJunior.java
+END
+TestInteruptibleEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestInteruptibleEvent.java
+END
+TestUndeadThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestUndeadThread.java
+END
+TestSkippedTurns.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestSkippedTurns.java
+END
+TestNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestNames.java
+END
+TestFileAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestFileAttack.java
+END
+TestLost.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestLost.java
+END
+TestDuplicatesAndScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestDuplicatesAndScore.java
+END
+TestRobotDeathEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestRobotDeathEvents.java
+END
+TestRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestRandom.java
+END
+TestFileWriteSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/3398/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestFileWriteSize.java
+END
+TestFileWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3398/robocode/trunk/plugins/dotnet/robocode.dotnet.tests/src/test/java/net/sf/robocode/test/robotscs/TestFileWrite.java
+END

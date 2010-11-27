@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/net/sf/robocode/security
+END
+IHiddenEventHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/net/sf/robocode/security/IHiddenEventHelper.cs
+END
+IHiddenRandomHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/net/sf/robocode/security/IHiddenRandomHelper.cs
+END
+IHiddenBulletHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/net/sf/robocode/security/IHiddenBulletHelper.cs
+END
+RobocodeInternalPermission.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/net/sf/robocode/security/RobocodeInternalPermission.cs
+END
+IHiddenStatusHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/net/sf/robocode/security/IHiddenStatusHelper.cs
+END
+IHiddenRulesHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/net/sf/robocode/security/IHiddenRulesHelper.cs
+END
+HiddenAccessN.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/net/sf/robocode/security/HiddenAccessN.cs
+END

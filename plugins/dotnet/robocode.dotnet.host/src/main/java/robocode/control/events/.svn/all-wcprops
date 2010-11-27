@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events
+END
+BattleFinishedEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/BattleFinishedEvent_.java
+END
+BattleStartedEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/BattleStartedEvent_.java
+END
+BattleEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/BattleEvent_.java
+END
+BattlePausedEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/BattlePausedEvent_.java
+END
+IBattleListener_.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/IBattleListener_.java
+END
+TurnStartedEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/TurnStartedEvent_.java
+END
+RoundStartedEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/RoundStartedEvent_.java
+END
+BattleCompletedEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/BattleCompletedEvent_.java
+END
+BattleErrorEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/BattleErrorEvent_.java
+END
+BattleResumedEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/BattleResumedEvent_.java
+END
+BattleMessageEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/BattleMessageEvent_.java
+END
+TurnEndedEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/TurnEndedEvent_.java
+END
+RoundEndedEvent_.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/events/RoundEndedEvent_.java
+END

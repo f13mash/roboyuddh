@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/net/sf/robocode/repository
+END
+IRepositoryItem.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3448/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/net/sf/robocode/repository/IRepositoryItem.generated.cs
+END
+RobotType.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/net/sf/robocode/repository/RobotType.generated.cs
+END
+IRobotRepositoryItem.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/net/sf/robocode/repository/IRobotRepositoryItem.generated.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/math
+END
+Curve3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/math/Curve3D.java
+END
+Transform3f.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/math/Transform3f.java
+END
+Vertex3f.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/math/Vertex3f.java
+END
+CurveBeizer3.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/math/CurveBeizer3.java
+END

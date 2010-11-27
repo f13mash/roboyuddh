@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/security
+END
+SafeComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/security/SafeComponent.java
+END
+IHiddenSpecificationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3520/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/security/IHiddenSpecificationHelper.java
+END
+HiddenAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/security/HiddenAccess.java
+END
+IThreadManagerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/security/IThreadManagerBase.java
+END
+IHiddenEventHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/security/IHiddenEventHelper.java
+END
+IHiddenStatusHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/security/IHiddenStatusHelper.java
+END
+IHiddenBulletHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/security/IHiddenBulletHelper.java
+END
+IHiddenRulesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/security/IHiddenRulesHelper.java
+END

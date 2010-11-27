@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d
+END
+robocode.bv3d.iml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3197/robocode/trunk/plugins/battleview3d/robocode.bv3d.iml
+END
+mvnassembly.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/mvnassembly.cmd
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/pom.xml
+END

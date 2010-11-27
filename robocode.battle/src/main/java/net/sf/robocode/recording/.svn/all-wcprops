@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/recording
+END
+RecordManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/recording/RecordManager.java
+END
+BattlePlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/recording/BattlePlayer.java
+END
+BattleRecordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/recording/BattleRecordInfo.java
+END
+BattleRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/recording/BattleRecorder.java
+END

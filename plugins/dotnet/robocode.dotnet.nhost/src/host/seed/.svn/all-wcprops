@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/host/seed
+END
+HostingSeed.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/host/seed/HostingSeed.cs
+END
+AppDomainShell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/host/seed/AppDomainShell.cs
+END
+HostingShell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/host/seed/HostingShell.cs
+END
+AppDomainSeed.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/host/seed/AppDomainSeed.cs
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3520/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/core
+END
+RobocodeMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3520/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/core/RobocodeMain.java
+END
+BaseModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/core/BaseModule.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/core/Module.java
+END
+EngineClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/core/EngineClassLoader.java
+END
+Container.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3452/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/core/Container.java
+END
+RobocodeMainBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3459/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/core/RobocodeMainBase.java
+END

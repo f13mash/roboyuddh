@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/snapshot
+END
+RobotSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/snapshot/RobotSnapshot.java
+END
+BulletSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/snapshot/BulletSnapshot.java
+END
+ScoreSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/snapshot/ScoreSnapshot.java
+END
+TurnSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/snapshot/TurnSnapshot.java
+END

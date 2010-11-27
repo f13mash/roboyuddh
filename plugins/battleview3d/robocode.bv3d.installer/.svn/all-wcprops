@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.installer
+END
+robocode.bv3d.installer.iml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3197/robocode/trunk/plugins/battleview3d/robocode.bv3d.installer/robocode.bv3d.installer.iml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2810/robocode/trunk/plugins/battleview3d/robocode.bv3d.installer/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.installer/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.installer/.classpath
+END

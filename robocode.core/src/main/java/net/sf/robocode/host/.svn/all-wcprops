@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3402/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/host
+END
+ICpuManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/host/ICpuManager.java
+END
+IHostManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/host/IHostManager.java
+END
+RobotStatics.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3402/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/host/RobotStatics.java
+END
+IRobotClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/host/IRobotClassLoader.java
+END

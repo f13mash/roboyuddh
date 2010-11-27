@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3536/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/settings
+END
+ISettingsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/settings/ISettingsListener.java
+END
+SettingsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3536/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/settings/SettingsManager.java
+END
+ISettingsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3536/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/settings/ISettingsManager.java
+END

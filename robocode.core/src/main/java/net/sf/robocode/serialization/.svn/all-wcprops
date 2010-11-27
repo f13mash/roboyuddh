@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3536/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/serialization
+END
+IXmlSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3536/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/serialization/IXmlSerializable.java
+END
+XmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/serialization/XmlReader.java
+END
+XmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3536/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/serialization/XmlWriter.java
+END
+ObjectCloner.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/serialization/ObjectCloner.java
+END

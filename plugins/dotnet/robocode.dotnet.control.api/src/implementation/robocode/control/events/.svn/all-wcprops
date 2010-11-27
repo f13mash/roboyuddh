@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events
+END
+RoundEndedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/RoundEndedEvent.cs
+END
+TurnEndedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/TurnEndedEvent.cs
+END
+BattleResumedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/BattleResumedEvent.cs
+END
+BattleMessageEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/BattleMessageEvent.cs
+END
+BattleErrorEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/BattleErrorEvent.cs
+END
+RoundStartedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/RoundStartedEvent.cs
+END
+BattleCompletedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/BattleCompletedEvent.cs
+END
+TurnStartedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/TurnStartedEvent.cs
+END
+BattlePausedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/BattlePausedEvent.cs
+END
+BattleEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/BattleEvent.cs
+END
+BattleStartedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/BattleStartedEvent.cs
+END
+BattleFinishedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/events/BattleFinishedEvent.cs
+END

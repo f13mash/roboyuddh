@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events
+END
+TurnEndedEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/TurnEndedEvent.generated.cs
+END
+BattleMessageEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/BattleMessageEvent.generated.cs
+END
+BattleResumedEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/BattleResumedEvent.generated.cs
+END
+BattleErrorEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/BattleErrorEvent.generated.cs
+END
+RoundStartedEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/RoundStartedEvent.generated.cs
+END
+BattleCompletedEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/BattleCompletedEvent.generated.cs
+END
+TurnStartedEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/TurnStartedEvent.generated.cs
+END
+IBattleListener.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/IBattleListener.generated.cs
+END
+BattlePausedEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/BattlePausedEvent.generated.cs
+END
+BattleEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/BattleEvent.generated.cs
+END
+BattleStartedEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/BattleStartedEvent.generated.cs
+END
+BattleFinishedEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/BattleFinishedEvent.generated.cs
+END
+RoundEndedEvent.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/events/RoundEndedEvent.generated.cs
+END

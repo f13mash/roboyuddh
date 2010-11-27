@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3520/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/security
+END
+ClassAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/security/ClassAnalyzer.java
+END
+RobocodeSecurityPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3520/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/security/RobocodeSecurityPolicy.java
+END
+RobotThreadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3459/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/security/RobotThreadManager.java
+END
+SecurePrintStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/security/SecurePrintStream.java
+END
+RobocodeSecurityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3460/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/security/RobocodeSecurityManager.java
+END
+RobocodePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/security/RobocodePermission.java
+END
+ThreadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/security/ThreadManager.java
+END
+SecureInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/security/SecureInputStream.java
+END
+RobotClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3475/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/security/RobotClassLoader.java
+END

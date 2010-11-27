@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/snapshot
+END
+IScoreSnapshot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/snapshot/IScoreSnapshot.cs
+END
+ITurnSnapshot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/snapshot/ITurnSnapshot.cs
+END
+RobotState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/snapshot/RobotState.cs
+END
+IRobotSnapshot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/snapshot/IRobotSnapshot.cs
+END
+IBulletSnapshot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/snapshot/IBulletSnapshot.cs
+END
+IDebugProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/snapshot/IDebugProperty.cs
+END
+BulletState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/snapshot/BulletState.cs
+END

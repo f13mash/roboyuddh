@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>robocode.dotnet.samples</name>
+	<comment></comment>
+	<projects>
+		<project>robocode.dotnet.api</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>

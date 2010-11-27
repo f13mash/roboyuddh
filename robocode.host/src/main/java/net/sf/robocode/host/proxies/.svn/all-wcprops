@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3536/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/proxies
+END
+HostingRobotProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3483/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/proxies/HostingRobotProxy.java
+END
+JuniorRobotProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/proxies/JuniorRobotProxy.java
+END
+AdvancedRobotProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/proxies/AdvancedRobotProxy.java
+END
+IHostingRobotProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/proxies/IHostingRobotProxy.java
+END
+BasicRobotProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3536/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/proxies/BasicRobotProxy.java
+END
+StandardRobotProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/proxies/StandardRobotProxy.java
+END
+TeamRobotProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3356/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/proxies/TeamRobotProxy.java
+END

@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3543/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode
+END
+KeyReleasedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/KeyReleasedEvent.cs
+END
+HitWallEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/HitWallEvent.cs
+END
+MousePressedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MousePressedEvent.cs
+END
+BulletMissedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/BulletMissedEvent.cs
+END
+RobotStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3543/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/RobotStatus.cs
+END
+Condition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/Condition.cs
+END
+MouseReleasedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MouseReleasedEvent.cs
+END
+MouseExitedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MouseExitedEvent.cs
+END
+MouseClickedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MouseClickedEvent.cs
+END
+KeyPressedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/KeyPressedEvent.cs
+END
+Keys.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/Keys.cs
+END
+MessageEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MessageEvent.cs
+END
+IDroid.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/IDroid.cs
+END
+MoveCompleteCondition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MoveCompleteCondition.cs
+END
+KeyTypedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/KeyTypedEvent.cs
+END
+RoundEndedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/RoundEndedEvent.cs
+END
+TeamRobot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/TeamRobot.cs
+END
+RateControlRobot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/RateControlRobot.cs
+END
+SkippedTurnEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/SkippedTurnEvent.cs
+END
+MouseMovedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MouseMovedEvent.cs
+END
+Robot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/Robot.cs
+END
+AdvancedRobot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3543/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/AdvancedRobot.cs
+END
+MouseEnteredEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MouseEnteredEvent.cs
+END
+BulletHitBulletEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/BulletHitBulletEvent.cs
+END
+GunTurnCompleteCondition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/GunTurnCompleteCondition.cs
+END
+HitRobotEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/HitRobotEvent.cs
+END
+JuniorRobot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/JuniorRobot.cs
+END
+ScannedRobotEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/ScannedRobotEvent.cs
+END
+RadarTurnCompleteCondition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/RadarTurnCompleteCondition.cs
+END
+BattleResults.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/BattleResults.cs
+END
+WinEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/WinEvent.cs
+END
+MouseWheelMovedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MouseWheelMovedEvent.cs
+END
+PaintEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/PaintEvent.cs
+END
+KeyEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/KeyEvent.cs
+END
+Event.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/Event.cs
+END
+BattleEndedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/BattleEndedEvent.cs
+END
+Rules.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/Rules.cs
+END
+MouseEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MouseEvent.cs
+END
+IGraphics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/IGraphics.cs
+END
+RobotDeathEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/RobotDeathEvent.cs
+END
+HitByBulletEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/HitByBulletEvent.cs
+END
+MouseDraggedEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/MouseDraggedEvent.cs
+END
+Thread.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/Thread.cs
+END
+CustomEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/CustomEvent.cs
+END
+BulletHitEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/BulletHitEvent.cs
+END
+StatusEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/StatusEvent.cs
+END
+DeathEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3519/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/DeathEvent.cs
+END
+TurnCompleteCondition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/TurnCompleteCondition.cs
+END
+Bullet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/Bullet.cs
+END
+BattleRules.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/BattleRules.cs
+END

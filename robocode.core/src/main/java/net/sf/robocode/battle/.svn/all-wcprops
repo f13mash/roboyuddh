@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/battle
+END
+IBattleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/battle/IBattleManager.java
+END
+BattleProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/battle/BattleProperties.java
+END
+BattleResultsTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/battle/BattleResultsTableModel.java
+END
+BattleRankingTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/battle/BattleRankingTableModel.java
+END

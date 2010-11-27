@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/tools
+END
+loadTools.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/tools/loadTools.cmd
+END

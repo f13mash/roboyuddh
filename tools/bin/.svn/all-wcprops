@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3280/robocode/trunk/tools/bin
+END
+mvn.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3280/robocode/trunk/tools/bin/mvn.bat
+END
+ant.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2682/robocode/trunk/tools/bin/ant.sh
+END
+m2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2852/robocode/trunk/tools/bin/m2.conf
+END
+ant.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2646/robocode/trunk/tools/bin/ant.bat
+END
+mvn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2682/robocode/trunk/tools/bin/mvn.sh
+END

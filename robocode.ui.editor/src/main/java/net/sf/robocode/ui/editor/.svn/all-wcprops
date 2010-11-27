@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor
+END
+RobocodeEditorMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/RobocodeEditorMenuBar.java
+END
+RobocodeViewFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/RobocodeViewFactory.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/Module.java
+END
+Keywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3464/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/Keywords.java
+END
+RobocodeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/RobocodeEditor.java
+END
+FindReplaceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/FindReplaceDialog.java
+END
+WindowMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/WindowMenuItem.java
+END
+CompilerPreferencesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/CompilerPreferencesDialog.java
+END
+JavaDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/JavaDocument.java
+END
+RobocodeView.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3476/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/RobocodeView.java
+END
+EditWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3462/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/EditWindow.java
+END
+LineNumbers.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/LineNumbers.java
+END
+RobocodeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/RobocodeCompiler.java
+END
+MoreWindowsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/MoreWindowsDialog.java
+END
+RobocodeCompilerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3458/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/RobocodeCompilerFactory.java
+END
+RobocodeEditorKit.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/RobocodeEditorKit.java
+END
+CompilerProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui.editor/src/main/java/net/sf/robocode/ui/editor/CompilerProperties.java
+END

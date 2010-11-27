@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3536/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/Module.java
+END
+JavaHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/JavaHost.java
+END
+IHostedThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/IHostedThread.java
+END
+IThreadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/IThreadManager.java
+END
+CpuManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/CpuManager.java
+END
+HostManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/HostManager.java
+END
+IHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3353/robocode/trunk/robocode.host/src/main/java/net/sf/robocode/host/IHost.java
+END

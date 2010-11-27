@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/serialization
+END
+ISerializableHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/serialization/ISerializableHelper.java
+END
+RbSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/net/sf/robocode/serialization/RbSerializer.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/camera
+END
+CameraAnchor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/camera/CameraAnchor.java
+END
+CameraManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/camera/CameraManager.java
+END
+CameraAnchorFollower.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/camera/CameraAnchorFollower.java
+END
+CameraAnchorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/camera/CameraAnchorController.java
+END
+CameraTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/camera/CameraTrack.java
+END
+Camera.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/camera/Camera.java
+END
+CameraAnchorTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/camera/CameraAnchorTrack.java
+END

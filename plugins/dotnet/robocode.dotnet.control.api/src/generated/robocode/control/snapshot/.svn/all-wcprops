@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/snapshot
+END
+IScoreSnapshot.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/snapshot/IScoreSnapshot.generated.cs
+END
+ITurnSnapshot.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/snapshot/ITurnSnapshot.generated.cs
+END
+RobotState.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/snapshot/RobotState.generated.cs
+END
+IRobotSnapshot.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/snapshot/IRobotSnapshot.generated.cs
+END
+IBulletSnapshot.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/snapshot/IBulletSnapshot.generated.cs
+END
+IDebugProperty.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/snapshot/IDebugProperty.generated.cs
+END
+BulletState.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/generated/robocode/control/snapshot/BulletState.generated.cs
+END

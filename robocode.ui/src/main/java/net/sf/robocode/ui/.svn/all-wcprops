@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3536/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui
+END
+WindowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/WindowManager.java
+END
+IWindowManagerExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/IWindowManagerExt.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/Module.java
+END
+RobotDialogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/RobotDialogManager.java
+END
+IImageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/IImageManager.java
+END
+CheckList.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/CheckList.java
+END
+BrowserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/BrowserManager.java
+END
+IRobotDialogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/IRobotDialogManager.java
+END
+ImageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/ImageManager.java
+END

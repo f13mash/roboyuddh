@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/net/sf/robocode/serialization
+END
+ISerializableHelper.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/net/sf/robocode/serialization/ISerializableHelper.generated.cs
+END
+RbSerializer.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/net/sf/robocode/serialization/RbSerializer.generated.cs
+END

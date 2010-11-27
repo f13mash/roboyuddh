@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3484/robocode/trunk/robocode.roborumble/src/main/java/net/sf/robocode/roborumble/netengine
+END
+FileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3353/robocode/trunk/robocode.roborumble/src/main/java/net/sf/robocode/roborumble/netengine/FileTransfer.java
+END
+ResultsUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3353/robocode/trunk/robocode.roborumble/src/main/java/net/sf/robocode/roborumble/netengine/ResultsUpload.java
+END
+BotsDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3484/robocode/trunk/robocode.roborumble/src/main/java/net/sf/robocode/roborumble/netengine/BotsDownload.java
+END
+UpdateRatingFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3353/robocode/trunk/robocode.roborumble/src/main/java/net/sf/robocode/roborumble/netengine/UpdateRatingFiles.java
+END

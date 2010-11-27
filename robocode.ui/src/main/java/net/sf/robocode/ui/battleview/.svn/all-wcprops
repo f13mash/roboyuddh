@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3536/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/battleview
+END
+BattleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3536/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/battleview/BattleView.java
+END
+MirroredGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/battleview/MirroredGraphics.java
+END
+InteractiveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/battleview/InteractiveHandler.java
+END
+ScreenshotUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/battleview/ScreenshotUtil.java
+END
+BattleField.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/battleview/BattleField.java
+END

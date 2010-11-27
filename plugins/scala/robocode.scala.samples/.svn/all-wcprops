@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3353/robocode/trunk/plugins/scala/robocode.scala.samples
+END
+robocode.scala.samples.iml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3197/robocode/trunk/plugins/scala/robocode.scala.samples/robocode.scala.samples.iml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2798/robocode/trunk/plugins/scala/robocode.scala.samples/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2798/robocode/trunk/plugins/scala/robocode.scala.samples/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2798/robocode/trunk/plugins/scala/robocode.scala.samples/.classpath
+END

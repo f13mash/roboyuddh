@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2650/robocode/trunk/robocode.sound/src/main/resources/net/sf/robocode/sound/sounds
+END
+shellhit.wav
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2650/robocode/trunk/robocode.sound/src/main/resources/net/sf/robocode/sound/sounds/shellhit.wav
+END
+13831_adcbicycle_22.wav
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2650/robocode/trunk/robocode.sound/src/main/resources/net/sf/robocode/sound/sounds/13831_adcbicycle_22.wav
+END
+zap.wav
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2650/robocode/trunk/robocode.sound/src/main/resources/net/sf/robocode/sound/sounds/zap.wav
+END
+explode.wav
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2650/robocode/trunk/robocode.sound/src/main/resources/net/sf/robocode/sound/sounds/explode.wav
+END

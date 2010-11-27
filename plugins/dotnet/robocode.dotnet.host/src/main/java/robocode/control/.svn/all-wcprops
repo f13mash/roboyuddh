@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control
+END
+BattlefieldSpecification_.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/BattlefieldSpecification_.java
+END
+RandomFactory_.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3363/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/RandomFactory_.java
+END
+RobocodeEngine_.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/RobocodeEngine_.java
+END
+RobotSpecification_.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3363/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/RobotSpecification_.java
+END
+BattleSpecification_.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/BattleSpecification_.java
+END
+RobotResults_.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.host/src/main/java/robocode/control/RobotResults_.java
+END

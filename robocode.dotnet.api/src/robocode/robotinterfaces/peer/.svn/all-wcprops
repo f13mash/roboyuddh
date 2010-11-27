@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3543/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/peer
+END
+IJuniorRobotPeer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/peer/IJuniorRobotPeer.cs
+END
+IBasicRobotPeer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3543/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/peer/IBasicRobotPeer.cs
+END
+IStandardRobotPeer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/peer/IStandardRobotPeer.cs
+END
+ITeamRobotPeer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/peer/ITeamRobotPeer.cs
+END
+IAdvancedRobotPeer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/peer/IAdvancedRobotPeer.cs
+END

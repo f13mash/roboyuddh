@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.ntests/src
+END
+AssemblyLoadTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.ntests/src/AssemblyLoadTest.cs
+END
+robocode.dotnet.ntests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.ntests/src/robocode.dotnet.ntests.csproj
+END
+SimpleTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.ntests/src/SimpleTest.cs
+END
+TestBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.ntests/src/TestBase.cs
+END

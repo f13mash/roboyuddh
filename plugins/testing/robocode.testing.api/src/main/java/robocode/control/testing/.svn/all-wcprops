@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/plugins/testing/robocode.testing.api/src/main/java/robocode/control/testing
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3133/robocode/trunk/plugins/testing/robocode.testing.api/src/main/java/robocode/control/testing/package.html
+END
+RobotTestBedAssert.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3353/robocode/trunk/plugins/testing/robocode.testing.api/src/main/java/robocode/control/testing/RobotTestBedAssert.java
+END
+RobotTestBed.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3353/robocode/trunk/plugins/testing/robocode.testing.api/src/main/java/robocode/control/testing/RobotTestBed.java
+END

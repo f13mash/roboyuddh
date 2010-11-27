@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/Module.java
+END
+BoundingRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/BoundingRectangle.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2646/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/Command.java
+END
+BaseBattle.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/BaseBattle.java
+END
+Battle.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3483/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/Battle.java
+END
+BattleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/BattleManager.java
+END
+IBattle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/IBattle.java
+END

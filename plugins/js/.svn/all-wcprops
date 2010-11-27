@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3353/robocode/trunk/plugins/js
+END
+mvnassembly.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2798/robocode/trunk/plugins/js/mvnassembly.cmd
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2798/robocode/trunk/plugins/js/pom.xml
+END
+robocode.js.iml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3197/robocode/trunk/plugins/js/robocode.js.iml
+END

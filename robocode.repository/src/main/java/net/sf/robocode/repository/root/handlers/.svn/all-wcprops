@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3470/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/root/handlers
+END
+JarHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/3445/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/root/handlers/JarHandler.java
+END
+ClassPathHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3470/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/root/handlers/ClassPathHandler.java
+END
+RootHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3445/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/root/handlers/RootHandler.java
+END

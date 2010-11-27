@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3447/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/.project
+END
+robocode.dotnet.nhost.iml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3342/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/robocode.dotnet.nhost.iml
+END

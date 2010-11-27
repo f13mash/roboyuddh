@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3543/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces
+END
+IAdvancedRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IAdvancedRobot.java
+END
+ITeamEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/ITeamEvents.java
+END
+IBasicEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IBasicEvents.java
+END
+IPaintEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IPaintEvents.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2646/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/package.html
+END
+IJuniorRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IJuniorRobot.java
+END
+IBasicRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IBasicRobot.java
+END
+IBasicEvents3.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IBasicEvents3.java
+END
+IPaintRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IPaintRobot.java
+END
+IBasicEvents2.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IBasicEvents2.java
+END
+IAdvancedEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IAdvancedEvents.java
+END
+ITeamRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/ITeamRobot.java
+END
+IInteractiveEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IInteractiveEvents.java
+END
+IInteractiveRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/robotinterfaces/IInteractiveRobot.java
+END

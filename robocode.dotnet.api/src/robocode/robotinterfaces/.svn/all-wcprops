@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3543/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces
+END
+IBasicEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IBasicEvents.cs
+END
+IPaintEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IPaintEvents.cs
+END
+IJuniorRobot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IJuniorRobot.cs
+END
+IRunnable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IRunnable.cs
+END
+IBasicRobot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IBasicRobot.cs
+END
+IBasicEvents3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IBasicEvents3.cs
+END
+IPaintRobot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IPaintRobot.cs
+END
+IBasicEvents2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IBasicEvents2.cs
+END
+IAdvancedEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IAdvancedEvents.cs
+END
+ITeamRobot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/ITeamRobot.cs
+END
+IInteractiveEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IInteractiveEvents.cs
+END
+IInteractiveRobot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IInteractiveRobot.cs
+END
+IAdvancedRobot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/IAdvancedRobot.cs
+END
+ITeamEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3353/robocode/trunk/plugins/dotnet/robocode.dotnet.api/src/robocode/robotinterfaces/ITeamEvents.cs
+END

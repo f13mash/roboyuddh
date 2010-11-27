@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models
+END
+skydome.pobj
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models/skydome.pobj
+END
+battleplane.pobj
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models/battleplane.pobj
+END
+particle1-sparkle.pobj
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models/particle1-sparkle.pobj
+END
+bullet.pobj
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models/bullet.pobj
+END
+yabusame.pobj
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models/yabusame.pobj
+END
+font.pobj
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models/font.pobj
+END
+walltower.pobj
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models/walltower.pobj
+END
+particle1-smoke.pobj
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models/particle1-smoke.pobj
+END
+track.pobj
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models/track.pobj
+END
+retainingwall.pobj
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.content/src/main/resources/misc/models/retainingwall.pobj
+END

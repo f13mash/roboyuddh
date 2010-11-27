@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3478/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/packager
+END
+JarExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3478/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/packager/JarExtractor.java
+END
+JarCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3445/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/packager/JarCreator.java
+END

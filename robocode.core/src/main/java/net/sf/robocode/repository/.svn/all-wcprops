@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3445/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/repository
+END
+IRobotRepositoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/repository/IRobotRepositoryItem.java
+END
+IRepositoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3445/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/repository/IRepositoryManager.java
+END
+IRepositoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3444/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/repository/IRepositoryItem.java
+END
+RobotType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/repository/RobotType.java
+END

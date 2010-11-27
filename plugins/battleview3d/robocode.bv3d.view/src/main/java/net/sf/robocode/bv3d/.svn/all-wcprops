@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d
+END
+DirectAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/DirectAnimator.java
+END
+GraphicListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/GraphicListener.java
+END
+Scene.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/Scene.java
+END
+OptionFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/OptionFrame.java
+END
+Animator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/Animator.java
+END
+DataStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2798/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/DataStore.java
+END
+MainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/MainFrame.java
+END
+MVCManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/MVCManager.java
+END
+NetXMLAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/NetXMLAnimator.java
+END

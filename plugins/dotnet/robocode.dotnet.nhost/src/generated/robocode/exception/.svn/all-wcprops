@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3344/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/robocode/exception
+END
+DeathException.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3344/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/robocode/exception/DeathException.generated.cs
+END
+DisabledException.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3344/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/robocode/exception/DisabledException.generated.cs
+END
+WinException.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3344/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/robocode/exception/WinException.generated.cs
+END
+AbortedException.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3344/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/robocode/exception/AbortedException.generated.cs
+END

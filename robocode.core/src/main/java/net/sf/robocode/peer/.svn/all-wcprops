@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3536/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/peer
+END
+TeamMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/peer/TeamMessage.java
+END
+BulletCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/peer/BulletCommand.java
+END
+ExecCommands.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/peer/ExecCommands.java
+END
+DebugProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3536/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/peer/DebugProperty.java
+END
+BadBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/peer/BadBehavior.java
+END
+ExecResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/peer/ExecResults.java
+END
+BulletStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3353/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/peer/BulletStatus.java
+END
+IRobotPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3483/robocode/trunk/robocode.core/src/main/java/net/sf/robocode/peer/IRobotPeer.java
+END

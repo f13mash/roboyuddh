@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3353/robocode/trunk/plugins/scala/robocode.scala.installer
+END
+robocode.scala.installer.iml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3197/robocode/trunk/plugins/scala/robocode.scala.installer/robocode.scala.installer.iml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2810/robocode/trunk/plugins/scala/robocode.scala.installer/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2798/robocode/trunk/plugins/scala/robocode.scala.installer/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2798/robocode/trunk/plugins/scala/robocode.scala.installer/.classpath
+END

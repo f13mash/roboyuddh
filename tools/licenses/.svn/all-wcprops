@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2646/robocode/trunk/tools/licenses
+END
+ant-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2646/robocode/trunk/tools/licenses/ant-NOTICE.txt
+END
+mvn-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2646/robocode/trunk/tools/licenses/mvn-NOTICE.txt
+END
+mvn-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2646/robocode/trunk/tools/licenses/mvn-LICENSE.txt
+END
+ant-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2646/robocode/trunk/tools/licenses/ant-LICENSE.txt
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3548/robocode/trunk/tools
+END
+loadTools.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3541/robocode/trunk/tools/loadTools.cmd
+END
+loadTools.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3541/robocode/trunk/tools/loadTools.sh
+END

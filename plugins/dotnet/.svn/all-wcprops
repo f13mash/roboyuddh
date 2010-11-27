@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3543/robocode/trunk/plugins/dotnet
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3342/robocode/trunk/plugins/dotnet/ReadMe.txt
+END
+robocode.dotnet.sln
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.sln
+END
+generateProxies.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/generateProxies.cmd
+END
+robocode.dotnet.iml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3342/robocode/trunk/plugins/dotnet/robocode.dotnet.iml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/pom.xml
+END
+mvnassembly.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3342/robocode/trunk/plugins/dotnet/mvnassembly.cmd
+END

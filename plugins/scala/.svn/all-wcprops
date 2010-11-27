@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3353/robocode/trunk/plugins/scala
+END
+mvnassembly.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2798/robocode/trunk/plugins/scala/mvnassembly.cmd
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3026/robocode/trunk/plugins/scala/pom.xml
+END
+robocode.scala.iml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3197/robocode/trunk/plugins/scala/robocode.scala.iml
+END

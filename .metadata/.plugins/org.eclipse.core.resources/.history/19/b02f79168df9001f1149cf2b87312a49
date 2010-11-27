@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>robocode.dotnet.robotscs</name>
+	<comment>.NET test robots for Robocode</comment>
+	<projects>
+		<project>robocode.dotnet.api</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>

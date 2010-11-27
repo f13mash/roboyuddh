@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer
+END
+TeamStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer/TeamStatistics.java
+END
+TextPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer/TextPeer.java
+END
+TeamPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer/TeamPeer.java
+END
+RobotStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer/RobotStatistics.java
+END
+RobotPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3483/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer/RobotPeer.java
+END
+IRobotPeerBattle.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3483/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer/IRobotPeerBattle.java
+END
+ExplosionPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer/ExplosionPeer.java
+END
+ContestantStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer/ContestantStatistics.java
+END
+ContestantPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3353/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer/ContestantPeer.java
+END
+BulletPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3536/robocode/trunk/robocode.battle/src/main/java/net/sf/robocode/battle/peer/BulletPeer.java
+END

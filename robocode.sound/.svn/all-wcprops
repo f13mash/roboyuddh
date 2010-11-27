@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3548/robocode/trunk/robocode.sound
+END
+robocode.sound.iml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3197/robocode/trunk/robocode.sound/robocode.sound.iml
+END
+maven-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3548/robocode/trunk/robocode.sound/maven-build.xml
+END
+maven-build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3548/robocode/trunk/robocode.sound/maven-build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2646/robocode/trunk/robocode.sound/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3280/robocode/trunk/robocode.sound/build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2646/robocode/trunk/robocode.sound/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3048/robocode/trunk/robocode.sound/.classpath
+END

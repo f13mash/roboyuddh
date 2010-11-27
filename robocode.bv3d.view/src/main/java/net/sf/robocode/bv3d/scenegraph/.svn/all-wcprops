@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/scenegraph
+END
+Drawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/scenegraph/Drawable.java
+END
+ModelView.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/scenegraph/ModelView.java
+END
+DisplayListIndexLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/scenegraph/DisplayListIndexLink.java
+END
+TransformationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/scenegraph/TransformationNode.java
+END
+Particle.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/scenegraph/Particle.java
+END
+Light.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/scenegraph/Light.java
+END
+ParticleSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/scenegraph/ParticleSystem.java
+END
+Ageing.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/scenegraph/Ageing.java
+END
+TextureIndexLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/scenegraph/TextureIndexLink.java
+END

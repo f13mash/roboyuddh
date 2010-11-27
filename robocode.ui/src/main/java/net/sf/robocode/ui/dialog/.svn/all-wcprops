@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3536/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog
+END
+TeamCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/TeamCreator.java
+END
+PreferencesSoundOptionsTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/PreferencesSoundOptionsTab.java
+END
+RobotSelectionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/RobotSelectionPanel.java
+END
+NewBattleDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/NewBattleDialog.java
+END
+PreferencesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/PreferencesDialog.java
+END
+BattleDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/BattleDialog.java
+END
+ConsoleDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/ConsoleDialog.java
+END
+WizardListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/WizardListener.java
+END
+ResultsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/ResultsDialog.java
+END
+RankingDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/RankingDialog.java
+END
+RobotExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/RobotExtractor.java
+END
+PreferencesDevelopmentOptionsTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/PreferencesDevelopmentOptionsTab.java
+END
+TeamCreatorOptionsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/TeamCreatorOptionsPanel.java
+END
+WindowUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/WindowUtil.java
+END
+RobotDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3407/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/RobotDialog.java
+END
+ConsoleScrollPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3395/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/ConsoleScrollPane.java
+END
+Wizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/Wizard.java
+END
+PreferencesRenderingOptionsTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3385/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/PreferencesRenderingOptionsTab.java
+END
+NewBattleBattleFieldTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/NewBattleBattleFieldTab.java
+END
+BattleButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/BattleButton.java
+END
+BaseScoreDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/BaseScoreDialog.java
+END
+WizardCardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/WizardCardPanel.java
+END
+WizardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/WizardController.java
+END
+RcSplashScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/RcSplashScreen.java
+END
+WizardTabbedPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/WizardTabbedPane.java
+END
+AboutBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/AboutBox.java
+END
+ResultsTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/ResultsTableCellRenderer.java
+END
+RobotButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/RobotButton.java
+END
+PreferencesCommonOptionsTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3536/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/PreferencesCommonOptionsTab.java
+END
+WizardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/WizardPanel.java
+END
+RobocodeFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/RobocodeFrame.java
+END
+NewBattleRulesTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/NewBattleRulesTab.java
+END
+WindowPositionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/WindowPositionManager.java
+END
+MenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3520/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/MenuBar.java
+END
+PreferencesViewOptionsTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3353/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/PreferencesViewOptionsTab.java
+END
+RobotDescriptionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3452/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/RobotDescriptionPanel.java
+END
+AvailableRobotsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3455/robocode/trunk/robocode.ui/src/main/java/net/sf/robocode/ui/dialog/AvailableRobotsPanel.java
+END

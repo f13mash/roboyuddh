@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3461/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots
+END
+HttpAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/HttpAttack.java
+END
+TooLongNameThisIsReallyTooLongName.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/TooLongNameThisIsReallyTooLongName.java
+END
+CustomEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/CustomEvents.java
+END
+BadFirePower.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/BadFirePower.java
+END
+AwtAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/AwtAttack.java
+END
+FileWriteSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/FileWriteSize.java
+END
+FileAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/FileAttack.java
+END
+Random.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/Random.java
+END
+JuniorEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/JuniorEvents.java
+END
+WatchBullets.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/WatchBullets.java
+END
+Ahead.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/Ahead.java
+END
+MaxTurnRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/MaxTurnRate.java
+END
+BodyTurnRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/BodyTurnRate.java
+END
+ThreadGroupAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3461/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/ThreadGroupAttack.java
+END
+ReverseDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/ReverseDirection.java
+END
+RadarTurnRateAndSetAdjust.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/RadarTurnRateAndSetAdjust.java
+END
+IncludeNamespaceAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/IncludeNamespaceAttack.java
+END
+PrivateConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/PrivateConstructor.java
+END
+ConstructorSocketAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/ConstructorSocketAttack.java
+END
+DecelerationCaveat3.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/DecelerationCaveat3.java
+END
+DecelerationCaveat1.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/DecelerationCaveat1.java
+END
+GunHeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/GunHeat.java
+END
+ConstructorReflectionAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/ConstructorReflectionAttack.java
+END
+ConstructorThreadAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/ConstructorThreadAttack.java
+END
+ConstructorAwtAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/ConstructorAwtAttack.java
+END
+InteruptibleEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/InteruptibleEvent.java
+END
+ConstructorHttpAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/ConstructorHttpAttack.java
+END
+UndeadThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/UndeadThread.java
+END
+FileOutputStreamAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/FileOutputStreamAttack.java
+END
+BattleWin.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/BattleWin.java
+END
+RobotDeathEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/RobotDeathEvents.java
+END
+MaxVelocity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/MaxVelocity.java
+END
+RateControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/RateControl.java
+END
+GunTurnRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/GunTurnRate.java
+END
+BattleLost.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/BattleLost.java
+END
+DieFast.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/DieFast.java
+END
+SocketAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/SocketAttack.java
+END
+FairPlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/FairPlay.java
+END
+SkipTurns.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/SkipTurns.java
+END
+EventPriorityFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/EventPriorityFilter.java
+END
+EnvAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/EnvAttack.java
+END
+ReflectionAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/ReflectionAttack.java
+END
+DecelerationCaveat2.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/DecelerationCaveat2.java
+END
+ThreadAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.tests.robots/src/main/java/tested/robots/ThreadAttack.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3548/robocode/trunk/robocode.installer
+END
+maven-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3548/robocode/trunk/robocode.installer/maven-build.xml
+END
+maven-build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3548/robocode/trunk/robocode.installer/maven-build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2810/robocode/trunk/robocode.installer/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3280/robocode/trunk/robocode.installer/build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2646/robocode/trunk/robocode.installer/.project
+END
+robocode.installer.iml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3197/robocode/trunk/robocode.installer/robocode.installer.iml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3044/robocode/trunk/robocode.installer/.classpath
+END

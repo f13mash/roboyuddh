@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3136/robocode/trunk/plugins/testing/robocode.testing.content/src/main/resources/testing
+END
+Read.Me.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3136/robocode/trunk/plugins/testing/robocode.testing.content/src/main/resources/testing/Read.Me.txt
+END
+test.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3136/robocode/trunk/plugins/testing/robocode.testing.content/src/main/resources/testing/test.cmd
+END
+compile.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3136/robocode/trunk/plugins/testing/robocode.testing.content/src/main/resources/testing/compile.cmd
+END

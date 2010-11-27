@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/net/sf/robocode/host
+END
+IHostManager.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/net/sf/robocode/host/IHostManager.generated.cs
+END
+IHost.generated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/3344/robocode/trunk/plugins/dotnet/robocode.dotnet.nhost/src/generated/net/sf/robocode/host/IHost.generated.cs
+END

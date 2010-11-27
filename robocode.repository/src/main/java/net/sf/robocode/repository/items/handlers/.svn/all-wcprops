@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3470/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/items/handlers
+END
+SourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3470/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/items/handlers/SourceHandler.java
+END
+TeamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3445/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/items/handlers/TeamHandler.java
+END
+PropertiesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3445/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/items/handlers/PropertiesHandler.java
+END
+ItemHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3445/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/items/handlers/ItemHandler.java
+END
+ClassHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3445/robocode/trunk/robocode.repository/src/main/java/net/sf/robocode/repository/items/handlers/ClassHandler.java
+END

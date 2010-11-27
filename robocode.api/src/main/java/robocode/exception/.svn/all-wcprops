@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/exception
+END
+AbortedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/exception/AbortedException.java
+END
+DeathException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/exception/DeathException.java
+END
+EventInterruptedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/exception/EventInterruptedException.java
+END
+RobotException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/exception/RobotException.java
+END
+DisabledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/exception/DisabledException.java
+END
+WinException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3353/robocode/trunk/robocode.api/src/main/java/robocode/exception/WinException.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control
+END
+BattleSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/BattleSpecification.cs
+END
+RobocodeEngine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/RobocodeEngine.cs
+END
+RobotSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/RobotSpecification.cs
+END
+IRobocodeEngine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/IRobocodeEngine.cs
+END
+BattlefieldSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3520/robocode/trunk/plugins/dotnet/robocode.dotnet.control.api/src/implementation/robocode/control/BattlefieldSpecification.cs
+END

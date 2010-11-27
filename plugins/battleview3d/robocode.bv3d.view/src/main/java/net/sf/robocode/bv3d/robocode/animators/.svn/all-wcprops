@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/robocode/animators
+END
+NetXMLAnimator4Robocode.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/robocode/animators/NetXMLAnimator4Robocode.java
+END
+RobocodeLiveAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/robocode/animators/RobocodeLiveAnimator.java
+END
+Animator4Robocode.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/robocode/animators/Animator4Robocode.java
+END
+XMLFileAnimator4Robocode.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/robocode/animators/XMLFileAnimator4Robocode.java
+END

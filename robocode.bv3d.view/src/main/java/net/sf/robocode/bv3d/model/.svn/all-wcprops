@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/model
+END
+ModelMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/model/ModelMaterial.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/model/Model.java
+END
+ModelObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/model/ModelObject.java
+END
+ModelFace.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/model/ModelFace.java
+END
+ModelGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/model/ModelGroup.java
+END
+LoadModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/model/LoadModel.java
+END
+ModelTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3353/robocode/trunk/plugins/battleview3d/robocode.bv3d.view/src/main/java/net/sf/robocode/bv3d/model/ModelTexture.java
+END
